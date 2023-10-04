@@ -1,0 +1,45 @@
+body {
+    background-color: pink;
+    text-align: center;
+}
+
+header {
+    color: white;} 
+
+h1:hover{
+        color: black;
+    }
+
+header p{
+    font-size: 10px;
+}
+
+h5 {
+    font-weight: bold;
+}
+
+div p{
+    width: 300px;
+    text-align: left;
+    margin: auto;
+    padding: 5px;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+#picture {
+    padding: 20px;
+    height: 250px;
+    width: 200px;
+}
+
+.quote{
+    color: white;
+    font-size: 30px;
+}
+
+footer p{
+    padding: 1px;
+    font-size: 13px;
+    font-weight: bold;
+}
